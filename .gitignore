@@ -163,3 +163,4 @@ cython_debug/
 yolov8n.pt
 yolov8m.pt
 /runs
+*.pt
